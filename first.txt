@@ -1,0 +1,15 @@
+yaoyao.yi@oracle.com
+13956074749dlDL
+?????????
+
+
+git clone https://jill.bao%40oracle.com@alm.oraclecorp.com/soa-di/s/soa-di_dataflowml/scm/dataflowml-qa.git
+
+ssh-keygen -t rsa -C “username@example.com”
+
+ssh-keygen -t rsa -C “username@example.com”:::
+
+git config --global core.editor "notepad.exe"
+
+
+git clone https://github.com/jillbao/jilfirst.git
